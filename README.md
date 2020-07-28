@@ -1,5 +1,6 @@
 # Code-Player
-This is a simple demo box where people can add their HTML, CSS and JavaScript code and preview the results ( Asimple version of the jsbin.com website)
+This is a demo box where people can add their HTML, CSS and JavaScript code and preview the results ( A simple version of the jsbin.com website).
+Clone it and play around with your code!
 
 
 # Some Examples
